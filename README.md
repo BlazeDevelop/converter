@@ -30,5 +30,12 @@ Run the application:
 3. Select the currency you want to convert to in the "To" drop-down menu.
 4. Click the "Convert" button.
 5. The result of the conversion will be displayed in the "Result" field.
-                                            \nLicense
-Currency Converter is licensed under the MIT License. See the LICENSE file for more information.
+                                            
+					    
+					    
+					    
+					    
+					    
+					    
+							License
+Converter is licensed under the MIT License. See the LICENSE file for more information.
