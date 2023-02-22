@@ -1,0 +1,33 @@
+Currency Converter - ToDo List
+
+Functionality:
+
+(+) Retrieving a list of currencies and their exchange rates from API
+(+) Real-time currency conversion
+(+) User interface on Tkinter
+(+) Displaying the conversion result on the screen
+(+) Selecting currencies for conversion
+(+) Adding information about the developer to the interface
+Tests:
+
+(+) Tests for the function that retrieves a list of currencies and their exchange rates
+(+) Tests for the function that performs currency conversion
+Documentation:
+
+(+) README.md file with a project description and installation and running instructions
+(+) LICENSE file with a license agreement
+Installation:
+
+(+) requirements.txt file for installing dependencies
+(+) setup.py file for installing the application
+Other:
+
+(-) Adding error and exception handling
+(-) Adding the ability to change the base currency
+(-) Adding the ability to save conversion history
+(-) Improving the design of the user interface
+(-) Adding the ability to automatically update currency exchange rates
+Notes:
+
+Use the API https://api.exchangerate-api.com/
+MIT license
